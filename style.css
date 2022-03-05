@@ -177,3 +177,36 @@ a:visited {
   font-weight: 800;
   font-size: 2.4rem;
 }
+
+/* CALL TO ACTION SECTION */
+.section-cta {
+  margin: 9.6rem 0;
+  color: #f9faf8;
+}
+
+.section-cta .container {
+  border-radius: 11px;
+  background-color: #3882f6;
+  padding: 4.8rem 0;
+}
+
+.cta {
+  margin: 0 auto;
+  max-width: 80rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cta-title {
+  font-size: 2.4rem;
+  font-weight: 800;
+}
+
+.cta-description {
+  color: #e5e7eb;
+}
+
+.sign-up--cta {
+  border: 2px solid #f9faf8;
+}
