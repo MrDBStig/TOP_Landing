@@ -210,3 +210,15 @@ a:visited {
 .sign-up--cta {
   border: 2px solid #f9faf8;
 }
+
+/* FOOTER */
+
+.footer {
+  padding: 6.4rem 0;
+  background-color: #1f2937;
+  color: #e5e7eb;
+}
+
+.copy {
+  text-align: center;
+}
