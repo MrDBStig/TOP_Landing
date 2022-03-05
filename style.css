@@ -92,7 +92,7 @@ a:visited {
 
 .hero-description {
   max-width: 50rem;
-  margin: 2.4rem 0;
+  margin: 1.2rem 0;
   color: #e5e7eb;
 }
 
@@ -157,3 +157,23 @@ a:visited {
 }
 
 /* SECTION QUOTE */
+.section-quote {
+  background-color: #e5e7eb;
+  padding: 9.6rem 0;
+}
+
+.section-quote .container {
+  max-width: 80rem;
+}
+
+.quote {
+  font-size: 3.6rem;
+  font-weight: 300;
+}
+
+.quote-author {
+  display: block;
+  text-align: right;
+  font-weight: 800;
+  font-size: 2.4rem;
+}
