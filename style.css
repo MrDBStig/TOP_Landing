@@ -112,3 +112,48 @@ a:visited {
   width: 50%;
   background-color: rgba(255, 255, 255, 0.5);
 }
+
+/* SECTION INFORMATION */
+.section-information {
+  background-color: #fff;
+  margin-bottom: 9.6rem;
+}
+
+.section-information .container {
+  display: flex;
+  flex-direction: column;
+}
+
+.information-title {
+  color: #1f2937;
+  font-weight: 800;
+  margin: 3.6rem auto;
+}
+
+.inforamtion-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.information-article {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.article-img {
+  width: 17rem;
+  height: 17rem;
+  border: 3px solid #3882f6;
+  border-radius: 11px;
+  margin-bottom: 1rem;
+}
+
+.article-description {
+  max-width: 17rem;
+  text-align: center;
+}
+
+/* SECTION QUOTE */
